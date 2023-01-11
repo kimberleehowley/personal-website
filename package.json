@@ -26,7 +26,7 @@
     "gatsby-remark-embed-youtube": "^0.0.7",
     "gatsby-remark-images": "^3.0.11",
     "gatsby-source-filesystem": "^2.0.24",
-    "gatsby-transformer-remark": "^2.6.19",
+    "gatsby-transformer-remark": "^5.25.1",
     "latest": "^0.2.0",
     "nuka-carousel": "^4.5.12",
     "pdfjs": "^2.3.1",
